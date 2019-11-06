@@ -1,0 +1,94 @@
+.blackcolor{
+  position: absolute;
+  background-color: #00000042;
+  height: 70px;
+  width: 1341px;
+  top: 5px;
+}
+.logo{
+   position:absolute;
+   left:0px;
+   top: 18px;
+   height: 46px;
+   width: 1336px;
+
+}
+.logo img {
+  margin-left: 100px;
+
+}
+.logo a {
+  left: 827px;
+  position: absolute;
+  text-decoration: none;
+  color: gray;
+  top: 12px;
+}
+.para
+{
+  position: absolute;
+  font-family: helvetica;
+  left: 880px;
+  top: 195px;
+  height: 325px;
+  width: 246px;
+  line-height: 17px;
+  color: white;
+}
+.morearticles{
+  position: absolute;
+  left: 197px;
+  top: 519px;
+  height: 360px;
+  width: 940px;
+
+}
+.fig1{
+  margin-left: 1px;
+  margin-top: 77px;
+  height: 340px;
+  width: 230px;
+
+  }
+  .fig2{
+    top: 15px;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 250px;
+    height: 345px;
+    width: 221px;
+
+    }
+    .fig3{
+      top: 15px;
+      position: absolute;
+      margin-top: 70px;
+      margin-left: 490px;
+      height: 345px;
+      width: 221px;
+
+      }
+.fig4{
+  top: 15px;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 730px;
+  height: 345px;
+  width: 221px;
+
+  }
+  .blackcolorfooter{
+    position: absolute;
+    background-color: #00000042;
+    height: 40px;
+    width: 1341px;
+    top: 950px;
+    left:7px;
+  }
+  .blackcolorfooter a {
+    left: 827px;
+    position: absolute;
+    text-decoration: none;
+    color: gray;
+    top: 12px;
+  }
